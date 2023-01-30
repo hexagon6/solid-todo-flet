@@ -7,4 +7,4 @@
 - [ ] retrieve webid from a pod
 - [ ] parse webid with a inrupt-equivalent library to parse turtle / rdf
 - [ ] list storage#space items
-- [ ] list todos from todos.fet.li app
+- [ ] list todos from todo.fet.li app
